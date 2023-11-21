@@ -49,11 +49,6 @@ class ValidaCPF{
 
 const cpf = new ValidaCPF('705.484.450-52')
 
-// if(cpf.valida()){
-//     console.log('CPF VALIDO!!!')
-// }else{
-//     console.log('CPF INVÁLIDO')
-// }
 
 
 
