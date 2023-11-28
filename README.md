@@ -1,2 +1,2 @@
 # Validacao-Formulario-FrontEnd
-Realiza a verificação de um formulário básico usando CSS /HTML 5/ javascript;
+Realiza a verificação de um formulário (inclunido o CPF do cliente) básico usando CSS /HTML 5/ javascript;
